@@ -1,8 +1,8 @@
 ---
-title: "Chase Mathis"
+title: "Max Scharf"
 about:
   template: trestles
-  image: images/ChasePicture.jpeg
+  image: images/MaxPicture.jpeg
   image-shape: round
   image-width: 18em
 ---
