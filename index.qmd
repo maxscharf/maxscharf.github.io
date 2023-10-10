@@ -1,5 +1,5 @@
 ---
-title: "Chase Mathis"
+title: "Max Scharf"
 about:
   template: trestles
   image: images/ChasePicture.jpeg
@@ -26,3 +26,5 @@ Currently, I am working on a project related to Multi-modal deep learning applic
 ## Work Experience
 
 I have worked as a data analyst for Duke Field Hockey and as an undergraduate TA in the Statistics department at Duke. I have also participated in several research projects and conferences.
+
+## This is actually max
