@@ -1,0 +1,21 @@
+---
+title: "Projects"
+---
+
+### Duke Field Hockey
+
+For team members, visit our [Password Protected Team Website](https://chasehmathis.github.io/duke-field-hockey-data/).
+
+------------------------------------------------------------------------
+
+## Academic Projects
+
+### Increasing Life Expectancy with Controllable Variables
+
+[![Report](images/STAReport1.png)](PDF_Files/STA325_LifeExp.pdf)
+
+------------------------------------------------------------------------
+
+### Predicting Turbulence and Posterior Distributions
+
+[![Report](images/STAReport2.png)](PDF_Files/STA325_Turbulance.pdf)

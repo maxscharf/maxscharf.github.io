@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  favicon: images/CM.png
+  page-navigation: true
+  title: "Chase Mathis"
+  description: "Personal Website for Chase Mathis: Statistics and Computer Science Major at Duke University"
+  site-url: "https://chasehmathis.github.io/"
+  
+  
+  navbar:
+    background: "#000000"
+    foreground: "#FFFFFF"
+    style: docked
+    search: true
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "CV"
+        href: PDF_Files/Resume.pdf
+
+    
+    right: 
+      - icon: github
+        href: https://github.com/chasehmathis
+      - icon: twitter
+        href: https://twitter.com/chasemathis29
+      - icon: envelope
+        href: "mailto:chase1mathis@gmail.com"
+        
+
+            
+
+format:
+  html:
+    max-width: 1600px
+    theme: 
+      dark: darkly
+      light: cosmo
+    css: style/styles.css
+    toc: true
+execute:
+  freeze: auto
+
+
+
+
