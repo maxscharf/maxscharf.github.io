@@ -2,11 +2,12 @@
 title: "Acomplishments"
 ---
 
-## Summer Institute in Biomedical Informatics (SIBMI)
+## FBLA Participation Tracker
 
-#### Summer 2023 I worked in [CELEHS Lab](https://celehs.hms.harvard.edu/) with Dr. Tianxi Cai and Dr. Junwei Lu.
+Earned 1st place in New York State Future Business Leaders of America - Coding & Programming competion. Created an application to track participation in schools and assign prizes. Can be viewed [here](https://studio.code.org/projects/applab/KFeRevPtls7_WJG6dY-KZe4hST0uaPjToWWztqmhAY0)
 
-![](images/hms.jpeg){width="600"}
+
+![](images/Participationtracker.png){width="600"}
 
 #### Research Presentation
 
