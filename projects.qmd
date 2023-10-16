@@ -2,9 +2,10 @@
 title: "Projects"
 ---
 
-### Duke Field Hockey
+### FarmBot Genesis
 
-For team members, visit our [Password Protected Team Website](https://chasehmathis.github.io/duke-field-hockey-data/).
+In the process of constructing and programming an automated farming robot for my high school. Product details can be viewed [here](https://farm.bot/pages/genesis).
+
 
 ------------------------------------------------------------------------
 
