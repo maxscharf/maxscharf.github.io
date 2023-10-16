@@ -6,17 +6,17 @@ title: "Projects"
 
 In the process of constructing and programming an advanced automated farming robot for my high school. Product details can be viewed [here](https://farm.bot/pages/genesis).
 
+### Jen Diet Order Automation
 
-------------------------------------------------------------------------
+Digitized and automated order placement process for a local small business using Zapier AI. Created a dynamically updating google spreadsheet to determine inventory; programmed JavaScript software to automate price calculations, inventory management, and formatting.
+
+---------------------ZAPIER SCREENSHOT?---------------------------------------------------
+
 
 ## Academic Projects
 
-### Increasing Life Expectancy with Controllable Variables
+### Randomization
 
 [![Report](images/STAReport1.png)](PDF_Files/STA325_LifeExp.pdf)
 
 ------------------------------------------------------------------------
-
-### Predicting Turbulence and Posterior Distributions
-
-[![Report](images/STAReport2.png)](PDF_Files/STA325_Turbulance.pdf)
