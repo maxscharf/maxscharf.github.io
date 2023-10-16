@@ -2,14 +2,14 @@
 title: "Max Scharf"
 about:
   template: trestles
-  image: images/ChasePicture.jpeg
+  image: images/MaxPicture.jpeg
   image-shape: round
   image-width: 18em
 ---
 
 ## Education
 
-I am currently a junior at Jericho High School, with a courseload and extracurricular activities centered around programming and engineering in business (4.00 unweighted GPA, 4.25 weighted GPA) [transcript](images/Transcript.pdf).
+I am currently a junior at Jericho High School, with a course load and extracurricular activities centered around programming and engineering in business (4.00 unweighted GPA, 4.25 weighted GPA) [transcript](images/Transcript.pdf).
 
 ## Research Interests
 

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Max Scharf",
     "section": "",
-    "text": "I am currently a junior at Jericho High School, with a courseload and extracurricular activities centered around programming and engineering in business (4.00 unweighted GPA, 4.25 weighted GPA) transcript."
+    "text": "I am currently a junior at Jericho High School, with a course load and extracurricular activities centered around programming and engineering in business (4.00 unweighted GPA, 4.25 weighted GPA) transcript."
   },
   {
     "objectID": "projects.html",
@@ -53,7 +53,7 @@
     "href": "index.html#education",
     "title": "Max Scharf",
     "section": "",
-    "text": "I am currently a junior at Jericho High School, with a courseload and extracurricular activities centered around programming and engineering in business (4.00 unweighted GPA, 4.25 weighted GPA) transcript."
+    "text": "I am currently a junior at Jericho High School, with a course load and extracurricular activities centered around programming and engineering in business (4.00 unweighted GPA, 4.25 weighted GPA) transcript."
   },
   {
     "objectID": "index.html#current-research",
@@ -110,5 +110,26 @@
     "title": "Max Scharf",
     "section": "This is actually max",
     "text": "This is actually max"
+  },
+  {
+    "objectID": "accomplishments.html",
+    "href": "accomplishments.html",
+    "title": "Acomplishments",
+    "section": "",
+    "text": "Presentation"
+  },
+  {
+    "objectID": "accomplishments.html#summer-institute-in-biomedical-informatics-sibmi",
+    "href": "accomplishments.html#summer-institute-in-biomedical-informatics-sibmi",
+    "title": "Acomplishments",
+    "section": "",
+    "text": "Presentation"
+  },
+  {
+    "objectID": "accomplishments.html#inspire-lab",
+    "href": "accomplishments.html#inspire-lab",
+    "title": "Acomplishments",
+    "section": "InSPIre Lab",
+    "text": "InSPIre Lab\n\nFor more information, visit the Lab Website."
   }
 ]

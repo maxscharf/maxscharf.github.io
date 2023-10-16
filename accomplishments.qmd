@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Acomplishments"
 ---
 
 ## Summer Institute in Biomedical Informatics (SIBMI)
@@ -12,7 +12,7 @@ title: "Research"
 
 [![Presentation](images/SIBMIPres.png)](docs/PDF_Files/SIBMI_Final_Presentation.pdf)
 
-#### A interview I did for Fox 5 News on Generative AI in schools
+#### A interview I did for Fox 5 News on Generative AI in schools (1:19)
 
 {{< video https://youtu.be/mhLxliGMASE?si=wwRezig4vFBRnQDt&t=79 title='Some schools embracing artificial intelligence to help teach' >}} 
 
