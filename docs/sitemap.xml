@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://chasehmathdis.github.io/index.html</loc>
-    <lastmod>2022-12-31T17:06:48.514Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chasehmathdis.github.io/projects.html</loc>
-    <lastmod>2022-12-26T15:09:48.476Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chasehmathis.github.io/index.html</loc>
-    <lastmod>2023-10-17T02:31:00.979Z</lastmod>
-  </url>
-  <url>
     <loc>https://chasehmathis.github.io/projects.html</loc>
-    <lastmod>2023-10-16T04:06:49.743Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chasehmathis.github.io/research.html</loc>
-    <lastmod>2023-10-16T03:56:57.137Z</lastmod>
+    <lastmod>2023-10-17T20:09:38.050Z</lastmod>
   </url>
   <url>
     <loc>https://chasehmathis.github.io/accomplishments.html</loc>
-    <lastmod>2023-10-16T04:17:13.687Z</lastmod>
+    <lastmod>2023-10-17T20:09:35.708Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chasehmathis.github.io/index.html</loc>
+    <lastmod>2023-10-17T20:11:32.684Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chasehmathis.github.io/research.html</loc>
+    <lastmod>2023-10-17T20:11:39.218Z</lastmod>
   </url>
 </urlset>

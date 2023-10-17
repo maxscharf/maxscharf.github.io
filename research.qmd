@@ -9,9 +9,9 @@ Earned 1st place in New York State Future Business Leaders of America - Coding &
 
 ![](images/Participationtracker.png){width="600"}
 
-#### Research Presentation
+#### AI Comittee
 
-[![Presentation](images/SIBMIPres.png)](docs/PDF_Files/SIBMI_Final_Presentation.pdf)
+Only student selected by administration as a member of the school's AI Comittee.
 
 #### A interview I did for Fox 5 News on Generative AI in schools (1:19)
 
