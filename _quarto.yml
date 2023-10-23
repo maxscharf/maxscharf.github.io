@@ -3,11 +3,11 @@ project:
   output-dir: docs
 
 website:
-  favicon: images/CM.png
+  favicon: images/MSlogo.png
   page-navigation: true
-  title: "Chase Mathis"
-  description: "Personal Website for Chase Mathis: Statistics and Computer Science Major at Duke University"
-  site-url: "https://chasehmathis.github.io/"
+  title: "Max Scharf"
+  description: "Personal Website for Max Scharf"
+  site-url: "https://maxscharf.github.io/"
   
   
   navbar:
@@ -18,7 +18,7 @@ website:
     left:
       - text: "Home"
         file: index.qmd
-      - text: "Research"
+      - text: "Accomplishments"
         href: research.qmd
       - text: "Projects"
         href: projects.qmd
@@ -28,11 +28,9 @@ website:
     
     right: 
       - icon: github
-        href: https://github.com/chasehmathis
-      - icon: twitter
-        href: https://twitter.com/chasemathis29
+        href: https://github.com/maxscharf
       - icon: envelope
-        href: "mailto:chase1mathis@gmail.com"
+        href: "mailto:maxjscharf@gmail.com"
         
 
             
