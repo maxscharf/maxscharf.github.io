@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://chasehmathis.github.io/projects.html</loc>
-    <lastmod>2023-10-17T20:09:38.050Z</lastmod>
+    <lastmod>2023-10-23T13:46:43.273Z</lastmod>
   </url>
   <url>
     <loc>https://chasehmathis.github.io/accomplishments.html</loc>
@@ -10,10 +10,22 @@
   </url>
   <url>
     <loc>https://chasehmathis.github.io/index.html</loc>
-    <lastmod>2023-10-17T20:11:32.684Z</lastmod>
+    <lastmod>2023-10-23T13:46:44.512Z</lastmod>
   </url>
   <url>
     <loc>https://chasehmathis.github.io/research.html</loc>
-    <lastmod>2023-10-17T20:11:39.218Z</lastmod>
+    <lastmod>2023-10-23T13:46:42.834Z</lastmod>
+  </url>
+  <url>
+    <loc>https://maxscharf.github.io/index.html</loc>
+    <lastmod>2023-10-23T13:49:38.254Z</lastmod>
+  </url>
+  <url>
+    <loc>https://maxscharf.github.io/research.html</loc>
+    <lastmod>2023-10-23T13:49:13.450Z</lastmod>
+  </url>
+  <url>
+    <loc>https://maxscharf.github.io/projects.html</loc>
+    <lastmod>2023-10-23T13:49:59.472Z</lastmod>
   </url>
 </urlset>
